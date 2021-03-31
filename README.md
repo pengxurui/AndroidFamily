@@ -45,7 +45,7 @@
 #### 微信
 欢迎添加我的微信：xurui0801
 
-![](https://github.com/pengxurui/Android-NoteBook/blob/master/Wechat%20QRCode.jpeg)
+![](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
 
 #### 博客
 
