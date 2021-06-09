@@ -25,20 +25,40 @@
 ---
 ## 0. 面试题系列
 
-[Java 基础面试题](https://www.jianshu.com/p/e29370668613)
-[Java String 常见面试题](https://juejin.cn/post/6909066772721172488)
-[Kotlin 基础面试题](https://www.jianshu.com/p/64ae2ac9e0b7)
-[Android 基础面试题](https://www.jianshu.com/p/0a08d912995e)
-[Android 工程类面试题](https://www.jianshu.com/p/4ed2fefd19cd)
-
+- [Java 基础面试题](https://www.jianshu.com/p/e29370668613)
+- [Java String 常见面试题](https://juejin.cn/post/6909066772721172488)
+- [Kotlin 基础面试题](https://www.jianshu.com/p/64ae2ac9e0b7)
+- [Android 基础面试题](https://www.jianshu.com/p/0a08d912995e)
+- [Android 工程类面试题](https://www.jianshu.com/p/4ed2fefd19cd)
 
 ---
 ## 1. 数据结构与算法路线
 
-- [算法 | 回溯算法解题框架](https://juejin.im/post/6882928981268496398)
-- [算法 | 链表问题总结](https://juejin.im/post/6882370280946302983)
-- [算法 | 高楼丢鸡蛋（源自谷歌面试题）](https://juejin.im/post/6877766729221537799)
-- [数据结构 | 并查集 & 联合 - 查找算法](https://juejin.im/post/6875746884397301773)
+#### 1.1 数据结构系列
+
+- [栈都知道，单调栈有了解吗？](https://juejin.cn/post/6941661805278298126)
+- [队列都知道，单调队列有了解吗？](https://juejin.cn/post/6941726116818190349)
+- [二叉树高频题型汇总](https://juejin.cn/post/6917131822711341070)
+- [微博 Top 10 热搜是怎么计算出来的？(二叉堆)](https://juejin.cn/post/6904691545493274637)
+- [并查集 & 联合 - 查找](https://juejin.cn/post/6875746884397301773)
+
+#### 1.2 算法思维系列
+
+- [回溯算法解题框架](https://juejin.cn/post/6882928981268496398)
+- [100000 个数的求和只需要 O(1)，可能吗?（前缀和）](https://juejin.cn/post/6942854967871045639/)
+
+#### 1.3 算法系列
+- [下次面试遇到二分查找，别再写错了](https://juejin.cn/post/6933241413341708296)
+
+#### 1.4 高频面试系列
+
+- [链表问题总结](https://juejin.cn/post/6882370280946302983)
+- [链表相交 & 成环问题](https://juejin.cn/post/6881580736428638215)
+
+#### 1.5 有趣的题目
+
+- [高楼丢鸡蛋（动态规划）](https://juejin.cn/post/6938389793760313375)
+- [计算器（栈·逆波兰表达式）](https://juejin.cn/post/6938387752811495455)
 
 ---
 ## 2. 计算机网络路线
