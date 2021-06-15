@@ -73,10 +73,11 @@
 ---
 ## 4. Java 路线
 
-- [Java | 带你理解 ServiceLoader 的原理与设计思想](https://juejin.im/post/6867869041692966925)
-- [Java | 深入理解方法调用的本质（含重载与重写区别）](https://juejin.im/post/6867481742723268615)
-- [Java | 聊一聊编译过程（编译前端 & 编译后端）](https://juejin.im/post/6867124787576373256)
-- [Java | 为什么 Java 实现了平台无关性?](https://juejin.im/post/6866716238207254536)
+- [带你理解 ServiceLoader 的原理与设计思想](https://juejin.im/post/6867869041692966925)
+- [深入理解方法调用的本质（含重载与重写区别）](https://juejin.im/post/6867481742723268615)
+- [聊一聊编译过程（编译前端 & 编译后端）](https://juejin.im/post/6867124787576373256)
+- [为什么 Java 实现了平台无关性?](https://juejin.im/post/6866716238207254536)
+- [JDK 动态代理的原理其实很简单](https://juejin.cn/post/6974018412158664734/)
 
 ---
 ## 5. Koltin 路线
@@ -152,7 +153,6 @@
 - [手把手自定义 Gradle 插件](https://juejin.cn/post/6916687373208125447)
 - [Android工程化实践：组件化发布](https://juejin.cn/post/6963633839860088846)
 - [用力过猛！为了组件化改造学习十几家大厂的技术博客](https://juejin.cn/post/6896099703474749453)
-
 
 ---
 ## 10. NDK 路线
