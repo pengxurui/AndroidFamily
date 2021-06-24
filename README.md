@@ -73,11 +73,39 @@
 ---
 ## 4. Java 路线
 
-- [带你理解 ServiceLoader 的原理与设计思想](https://juejin.im/post/6867869041692966925)
-- [深入理解方法调用的本质（含重载与重写区别）](https://juejin.im/post/6867481742723268615)
-- [聊一聊编译过程（编译前端 & 编译后端）](https://juejin.im/post/6867124787576373256)
-- [为什么 Java 实现了平台无关性?](https://juejin.im/post/6866716238207254536)
-- [JDK 动态代理的原理其实很简单](https://juejin.cn/post/6974018412158664734/)
+#### 4.1 Java 简介
+
+- [Java 基础面试题](https://www.jianshu.com/p/e29370668613)
+- [Java 虚拟机面试题](https://www.jianshu.com/p/846d05fc5e45)
+- [Java String 常见面试题](https://juejin.cn/post/6909066772721172488)
+- [为什么 Java 实现了平台无关性?](https://juejin.cn/post/6866716238207254536)
+- [拿放大镜看对象](https://juejin.cn/post/6918257137806376968)
+
+#### 4.2 虚拟机自动内存管理机制
+
+- [Java 内存分配模型](https://juejin.cn/post/6917796881196122120)
+- [垃圾回收机制](https://juejin.cn/post/6918740822163161095)
+- [Object obj = new Object()占用多少字节？](https://juejin.cn/post/6887594129405149197)
+- [引用类型 & Finalizer 机制](https://juejin.cn/post/6910893388879364110)
+
+#### 4.3 虚拟机执行系统
+
+- [Class 文件结构](https://www.jianshu.com/p/14c969b8add2)
+- [方法调用的本质（含重载与重写区别）](https://juejin.cn/post/6867481742723268615)
+- [编译过程（编译前端 & 编译后端）](https://juejin.cn/post/6867124787576373256)
+- [类加载机制](https://www.jianshu.com/p/f4318e626a22)
+
+#### 4.4 Java 基础特性
+
+- [反射机制（含 Kotlin）](https://juejin.cn/post/6889833658669072397)
+- [泛型（含Kotlin）](https://juejin.cn/post/6888345234653052941)
+- [注解（含 Kotlin）](https://www.jianshu.com/p/5871e1186840)
+
+#### 4.5 Java 高级特性
+
+- [System.getProperty(...) 获取系统属性](https://juejin.cn/post/6892294041632210957)
+- [服务发现框架 ServiceLoader](https://juejin.cn/post/6916161542492782605/)
+- [JDK 动态代理的原理](https://juejin.cn/post/6974018412158664734/)
 
 ---
 ## 5. Koltin 路线
@@ -209,7 +237,7 @@
 - 知乎：https://www.zhihu.com/people/di-san-ci-ai-qing
 
 #### License
-Copyright [2020] [pengxurui]
+Copyright [2020] [Peng XuRui]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
