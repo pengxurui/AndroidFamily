@@ -225,7 +225,7 @@
 ## Contact Me
 
 #### 微信
-欢迎添加我的微信：xurui0801
+欢迎添加我的微信：xurui0801，也可以联系我加入学习群~
 
 ![](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
 
