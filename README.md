@@ -2,7 +2,7 @@
 
 ![小彭的微信](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
 
-> **提示：** 二维码只有七天有效期，过期可以加我微信进群哦
+> **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
 
 ## 如何成为有高度的移动开发工程师？
 
