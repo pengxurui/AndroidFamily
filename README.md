@@ -1,6 +1,8 @@
 # Android-NoteBook
 
-![小彭的微信](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+![个人微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
+
+![公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png)
 
 > **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
 
@@ -245,7 +247,7 @@
 - 知乎：https://www.zhihu.com/people/di-san-ci-ai-qing
 
 #### License
-Copyright [2020] [Peng XuRui]
+Copyright [2020] [Peng Xurui]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
