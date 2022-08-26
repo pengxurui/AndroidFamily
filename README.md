@@ -1,5 +1,7 @@
 # AndroidFamily（即将大更新）
 
+![](https://github.com/pengxurui/AndroidFamily/blob/master/images/Android_Banner.png)
+
 <p align='center'>
   <a href="https://www.github.com/pengxurui" target="_blank">
     <img src="https://img.shields.io/badge/作者-@小彭-brightgreen.svg?style=flat&logo=GitHub">
@@ -27,11 +29,6 @@
   </a>
 </p>
 
-![个人微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
-
-![公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png)
-
-> **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
 
 ## 如何成为有高度的移动开发工程师？
 
@@ -273,14 +270,21 @@
 - 头条：https://www.toutiao.com/c/user/102880980905/
 - 知乎：https://www.zhihu.com/people/di-san-ci-ai-qing
 
-#### License
-Copyright [2020] [Peng Xurui]
+## Donate
+
+如果本仓库对你有帮助，可以请小彭喝杯速溶咖啡。
+
+![](https://github.com/pengxurui/AndroidFamily/blob/master/images/%E8%AF%B7%E5%B0%8F%E5%BD%AD%E5%96%9D%E6%9D%AF%E9%80%9F%E6%BA%B6%E5%92%96%E5%95%A1.png)
+
+## License
+
+Copyright [2022] [Peng Xurui]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
