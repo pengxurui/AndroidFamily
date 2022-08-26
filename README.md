@@ -1,5 +1,32 @@
 # AndroidFamily（即将大更新）
 
+<p align='center'>
+  <a href="https://www.github.com/pengxurui" target="_blank">
+    <img src="https://img.shields.io/badge/作者-@小彭-brightgreen.svg?style=flat&logo=GitHub">
+  </a>
+  <a href="https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png" target="_blank">
+    <img src="https://img.shields.io/badge/公众号-彭旭锐-brightgreen.svg?style=flat&logo=WeChat">
+  </a>
+  <a href="https://juejin.cn/user/1063982987230392" target="_blank">
+    <img src="https://img.shields.io/badge/🔥%20juejin-掘金-blue.svg?style=flat">
+  </a>
+  <a href="https://www.zhihu.com/people/pengxurui" target="_blank">
+    <img src="https://img.shields.io/badge/zhihu-知乎-informational.svg?style=flat&logo=Zhihu">
+  </a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAbY-k9r66YVymjlqMaaGZJO67hCNYaNGa7PCoisQYmR4" target="_blank">
+    <img src="https://img.shields.io/badge/toutiao-头条-red.svg?style=flat">
+  </a>
+  <a href="https://www.cnblogs.com/pengxurui/" target="_blank">
+    <img src="https://img.shields.io/badge/cnblogs-博客园-green.svg?style=flat">
+  </a>
+  <a href="https://blog.csdn.net/pengxurui?spm=1000.2115.3001.5343" target="_blank">
+    <img src="https://img.shields.io/badge/csdn-CSDN-9cf.svg?style=flat">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/jianshu-简书-orange.svg?style=flat">
+  </a>
+</p>
+
 ![个人微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
 
 ![公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png)
