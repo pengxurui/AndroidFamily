@@ -75,6 +75,7 @@
 
 - 030 Java 虚拟机
 
+
   - 031 Java 虚拟机内存管理
   
     - 031.1 内存分布模型
@@ -88,6 +89,14 @@
     - [031.5 吊打面试官：说一下 Java 的四种引用类型](https://juejin.cn/post/7130652285817847844)
     
     - [031.6 吊打面试官：为什么 finalize() 方法只会执行一次？](https://juejin.cn/post/7131027741163388958)
+
+    - [内存分配模型](https://juejin.cn/post/6917796881196122120)
+
+    - [垃圾回收机制](https://juejin.cn/post/6918740822163161095)
+
+    - [拿放大镜看对象](https://juejin.cn/post/6918257137806376968)
+
+    - [Java 虚拟机面试题](https://www.jianshu.com/p/846d05fc5e45)
     
   - 032 Java 编译过程
   
@@ -103,6 +112,18 @@
     
     - 032.6 泛型机制
 
+    - [Class 文件结构](https://www.jianshu.com/p/14c969b8add2)
+
+    - [编译过程（编译前端 & 编译后端）](https://juejin.cn/post/6867124787576373256)
+
+    - [类加载机制](https://www.jianshu.com/p/f4318e626a22)
+
+    - [泛型（含Kotlin）](https://juejin.cn/post/6888345234653052941)
+
+    - [注解（含 Kotlin）](https://www.jianshu.com/p/5871e1186840)
+
+    - [为什么 Java 实现了平台无关性?](https://juejin.cn/post/6866716238207254536)
+
   - 033 Java 虚拟机执行系统
     
     - 033.1 方法调用与方法返回
@@ -112,6 +133,10 @@
     - 033.3 反射机制
     
     - 033.4 异常机制
+
+    - [方法调用的本质（含重载与重写区别）](https://juejin.cn/post/6867481742723268615)
+
+    - [反射机制（含 Kotlin）](https://juejin.cn/post/6889833658669072397)
   
   - 034 并发编程
   
@@ -128,11 +153,12 @@
   
   - 114 ContentProvider
   
-    - 114.1 ContentProvider 基础
+    - [114.1 ContentProvider 基础](https://juejin.cn/post/6929518871921557512)
     
-    - 114.2 ContentProvider 原理
-    
+    - [114.2 ContentProvider 原理](https://www.jianshu.com/p/e144079840b3)
+
     - [114.3 ContentProvider 案例：无侵入获取 Context 进行初始化](https://juejin.cn/post/6887980244389593096)
+
     - [114.4 ContentProvider 案例：Jetpack · App Startup](https://juejin.cn/post/6898738809895125006)
 
   - 115 Intent
@@ -152,6 +178,8 @@
   - 121 Android IPC 通信
   
   - 122 Android 虚拟机
+
+    - [Android 从类加载到程序执行](https://juejin.cn/post/6919121581180616718)
   
   - 123 Android 系统层服务
   
@@ -179,6 +207,8 @@
     
     - 124.7 ANR 机制
   
+    - [带你探究 LayoutInflater 布局解析原理](https://juejin.cn/post/6886052422260228103)
+
   - 125 Android 编译过程
   
     - 125.1 APK 编译过程
@@ -202,6 +232,8 @@
     - 126.5 资源案例：插件化
     
     - 126.6 资源案例：组件化资源冲突
+
+    - [说说从 android:text 到 TextView 的过程（主题&样式）](https://juejin.cn/post/6889029050753531917)
   
 - 130 Android 核心特性
 
@@ -288,6 +320,10 @@
     - 142.2 Retrofit
 
     - 142.3 Glide
+
+    - [142.4 EventBus 这是一份详细的 EventBus 使用教程](https://juejin.cn/post/6930562700128813070)
+
+    - [142.5 适可而止！看 Glide 如何把生命周期安排得明明白白](https://juejin.cn/post/6900548494818279432)
 
   - 143 序列化组件
 
@@ -453,18 +489,148 @@
 - 180 Compose
 
 
-
-  
 ---
 ## 200 计算机基础
   
 - 210 计算机组成原理
 
+  - [210.1 今天一次把 Unicode 和 UTF-8 说清楚](https://juejin.cn/post/7126396251322449934)
+
+  - [210.2 为什么浮点数运算不精确？](https://juejin.cn/post/6860445359936798734)
+
 - 220 计算机网络
+
+  - 221 计算机网络基础
+
+    - 221.1 计算机网络基础概念
+
+    - [221.2 认为 Base64 是加密算法吗？](https://juejin.cn/post/6887498543494660109)
+
+  - 222 底层网络协议
+
+    - 222.01 TCP 
+
+    - 222.02 UDP
+
+  - 223 应用层网络协议
+
+    - [223.01 图解 DNS & HTTPDNS 原理](https://juejin.cn/post/6884183177926033416)
+
+    - 223.02 HTTP 协议
+
+    - [223.03 安全传输模型 - 加密、摘要、签名、证书，一次说明白!](https://juejin.cn/post/6995549209348816909)
+
+    - 223.04 HTTPS 协议
+
+    - [223.05 MQTT 协议：为什么每份 Android 简历都说 “熟悉 MQTT 协议”？](https://juejin.cn/post/6984379979962253342)
+
+  - 224 网络技术
+
+    - 224.1 CDN
+
+    - 224.2 Nginx 代理服务
+
+  - 225 网络调试工具
+
+    - 225.1 网络调试命令
+
+    - [225.2 从原理到实战，全面总结 Android HTTPS 抓包](https://juejin.cn/post/7083761008321232933)
+
+    - 225.3 Postman
+
+    - 225.4 WireShark
 
 - 230 操作系统
 
+  - 231 操作系统基础
+
+  - 232 操作系统启动过程
+
+  - 233 进程管理
+
+  - 234 内存管理
+
+  - 235 文件管理
+
+  - 236 IO 管理
+
+  - 237 进程间通信
+
+  - [操作系统 | 中断 & 系统调用浅析](https://juejin.cn/post/6894225735265206286)
+
 - 240 数据结构与算法
+
+  - 241 基础数据结构
+
+    - 241.1 线性表（ArrayList & LinkedList 实现）
+
+    - [241.2 散列表：简答一波 HashMap 常见八股面试题](https://juejin.cn/post/7122091070862655501)
+
+    - 241.3 队列
+
+    - 241.4 栈
+
+    - [241.5 二叉树：二叉树高频题型汇总](https://juejin.cn/post/6917131822711341070)
+    
+  - 242 高级数据结构
+
+    - [242.01 前缀和数组（区间查询）：100000 个数的求和只需要 O(1)，可能吗?](https://juejin.cn/post/6942854967871045639)
+
+    - [242.02 线段树（区间查询）：面试被问到线段树，已经这么卷了吗？](https://juejin.cn/post/6984052900901158943)
+
+    - 242.03 树状数组（区间查询）
+
+    - 242.04 字典树
+
+    - [242.05 单调队列（滑动窗口的最大值）：队列都知道，单调队列有了解吗？](https://juejin.cn/post/6941726116818190349)
+
+    - [242.06 单调栈（下一个更大元素）：栈都知道，单调栈有了解吗？](https://juejin.cn/post/6941661805278298126)
+
+    - [242.07 并查集（动态连通）：并查集 & 联合 - 查找算法](https://juejin.cn/post/6875746884397301773)
+
+    - [242.08 二叉堆：微博 Top 10 热搜是怎么计算出来的？](https://juejin.cn/post/6904691545493274637)
+
+    - 242.09 图
+
+    - 242.10 布隆过滤器（大数据盘存）
+
+  - 243 基础算法思想
+
+    - 243.01 复杂度分析
+
+    - 243.02 排序算法
+
+    - [243.03 二分查找算法：下次面试遇到二分查找，别再写错了](https://juejin.cn/post/6933241413341708296)
+
+    - [243.04 回溯算法：回溯算法解题框架](https://juejin.cn/post/6882928981268496398)
+
+    - 243.05 贪心算法
+
+    - 243.06 动态规划算法
+
+  - 244 高级算法思想
+
+  - 245 经典题目
+
+    - [245.01 高楼丢鸡蛋（动态规划)](https://juejin.cn/post/6938389793760313375)
+
+    - [245.02 计算器（逆波兰表达式）](https://juejin.cn/post/6938387752811495455)
+
+    - [245.03 链表](https://juejin.cn/post/6882370280946302983)
+
+    - [245.04 相交链表 & 环形链表](https://juejin.cn/post/6881580736428638215)
+
+  - 246 思维逻辑题
+
+    - [246.01 我知道你不知道，我到底知不知道](https://juejin.cn/post/6902829580013436942)
+
+    - [246.02 至少要几个砝码，可以称出 1g ~ 40g 重量](https://juejin.cn/post/6903460612886495245)
+
+    - [246.03 舞会上有多少顶黑帽？](https://juejin.cn/post/6903524335193948167)
+
+    - [246.04 25 匹马 5 条赛道，最快需要几轮求出前 3 名？](https://juejin.cn/post/6903861591188783112)
+
+  - 247 竞赛
 
 - 250 数据库
 
@@ -480,12 +646,57 @@
   
 - 410 C/C++ 基础
 
+  - 410.1 NDK 开发概述
+
+  - 410.2 C 语言基础
+
+  - 410.3 C/C++ 语言基础
+
+  - 410.4 C/C++ 编译过程
+
+  - [C 语言复习笔记](https://juejin.cn/post/6939477843088769032)
+
+  - [C++ 复习笔记](https://juejin.cn/post/6947657958419333151)
+
 - 420 JNI 基础
+
+  - [420.1 JNI 基础：JNI 从入门到实践，万字爆肝详解！](https://juejin.cn/post/7125338583959306248)
+
+  - [420.2 注册 JNI 函数：说一下注册 JNI 函数的方式和时机](https://juejin.cn/post/7125021894562349092)
+
+  - [420.3 so 文件加载过程：说说 so 库从加载到卸载的全过程](https://juejin.cn/post/6892793299427491854)
+
+  - [420.4 System.getProperty(...) 获取系统属性](https://juejin.cn/post/6892294041632210957)
 
 - 430 NDK 基础
 
+  - 430.1 NDK 编译基础：ndk-build & CMake
+
+  - 420.2 so 文件格式
+
+  - [420.3 NDK 案例 - 一键检索未适配 64 位架构的 so 文件](https://juejin.cn/post/7034201332500135966)
+
+  - 420.4 NDK 案例 - so 文件动态化
+
+  - 420.5 NDK 案例 - so 文件精简
+
+  - 420.6 NDK 案例 - Native 内存泄漏监控
+
 - 440 音视频基础理论
 
+  - 440.1 视频基础理论
+
+  - 440.2 音频基础理论
+
+  - 440.3 H.264 视频压缩编码
+
+  - 440.4 音频压缩编码
+
+  - 440.5 FFMPEG 基础
+
+  - 440.6 OPENSL ES 基础
+
+  - [440.7 PNG 图片格式：PNG 除了无损压缩你还知道什么？](https://juejin.cn/post/6905635070397612039)
 
 ---
 ## 500 DevOps
@@ -494,254 +705,77 @@
 
 - 520 CI/CD 持续集成
 
+  - [520.1 你的第一个 Jenkins 项目，从这里开始](https://juejin.cn/post/7077957170121146376)
+
 - 530 开源
     
-    
-
-    
+  - [530.1 发布开源组件到 MavenCentral 仓库超详细攻略](https://juejin.cn/post/7135457823055413278)
     
 ---
 ## 600 后端
 
-
-
-
+- [600.1 客户端同学应该理解的 ELK Stack 组件知识](https://juejin.cn/post/6947712552390361119)
 
 ---
 ## 700 项目实践
 
+- 地图
 
+  -  [WGS84、GCJ-02、BD-09都是什么鬼？](https://www.jianshu.com/p/559029832a67)
+
+- 日志
+
+- 数据
+  
+  - [落地西瓜视频埋点方案，埋点从未如此简单](https://juejin.cn/post/7010797094151651365)
+
+- IM 即时通信
+
+- 账号体系
+
+- 推送
+
+- 社交分享
+
+- 红包
+
+- 设备
+
+  - [IMEI 弃用！收下这份保姆级的 OAID 集成教程](https://juejin.cn/post/7072741392178479140)
+
+- 信息流
+
+  - [列表分页接口有哪些方案，你知道吗？](https://juejin.cn/post/7084996711998816292)
+  
+- 搜索
+
+- 应用网关
+
+- Hybird
+
+- 深度链接
+
+  - [Android Deep Link 深度链接，看看你在第几层？](https://juejin.cn/post/7073731278612201509)
+
+- 隐私
+
+  - [还在见招拆招？先看懂 APP 个人信息保护治理机制](https://juejin.cn/post/7078940840009302052)
 
 ---
 ## 800 产品 & 设计 & 市场 & 运营
 
 
-
 ---
 ## 900 软实力
 
-##
+- [一个菜鸟管理的学习和思考（一）](https://juejin.cn/post/7106065076313915405)
 
+- [一个菜鸟管理的学习和思考（二）](https://juejin.cn/post/7106531274458103821)
 
+- [明天 520，说说两性之间的那些事](https://juejin.cn/post/7099395743210815502)
 
-
-
-
-
-- [Java 基础面试题](https://www.jianshu.com/p/e29370668613)
-- [Java String 常见面试题](https://juejin.cn/post/6909066772721172488)
-- [Kotlin 基础面试题](https://www.jianshu.com/p/64ae2ac9e0b7)
-- [Android 基础面试题](https://www.jianshu.com/p/0a08d912995e)
-- [Android 工程类面试题](https://www.jianshu.com/p/4ed2fefd19cd)
-
----
-## 1. 数据结构与算法路线
-
-#### 1.1 数据结构系列
-
-- [栈都知道，单调栈有了解吗？](https://juejin.cn/post/6941661805278298126)
-- [队列都知道，单调队列有了解吗？](https://juejin.cn/post/6941726116818190349)
-- [二叉树高频题型汇总](https://juejin.cn/post/6917131822711341070)
-- [微博 Top 10 热搜是怎么计算出来的？(二叉堆)](https://juejin.cn/post/6904691545493274637)
-- [并查集 & 联合 - 查找](https://juejin.cn/post/6875746884397301773)
-- [面试被问到线段树，已经这么卷了吗？](https://juejin.cn/post/6984052900901158943)
-
-#### 1.2 算法思维系列
-
-- [回溯算法解题框架](https://juejin.cn/post/6882928981268496398)
-- [100000 个数的求和只需要 O(1)，可能吗?（前缀和）](https://juejin.cn/post/6942854967871045639)
-
-#### 1.3 算法系列
-- [下次面试遇到二分查找，别再写错了](https://juejin.cn/post/6933241413341708296)
-
-#### 1.4 高频面试系列
-
-- [链表问题总结](https://juejin.cn/post/6882370280946302983)
-- [链表相交 & 成环问题](https://juejin.cn/post/6881580736428638215)
-
-#### 1.5 有趣的题目
-
-- [高楼丢鸡蛋（动态规划）](https://juejin.cn/post/6938389793760313375)
-- [计算器（栈·逆波兰表达式）](https://juejin.cn/post/6938387752811495455)
-
----
-## 2. 计算机网络路线
-
-- [计算机网络 | 图解 DNS & HTTPDNS 原理](https://juejin.im/post/6884183177926033416)
-- [为什么每份 Android 简历都说 “熟悉 MQTT 协议”？](https://juejin.cn/post/6984379979962253342)
-- [加密、摘要、签名、证书，一次说明白! ](https://juejin.cn/post/6995549209348816909)
-
----
-## 3. 计算机组成原理路线
-
-- [计算机组成原理 | 为什么浮点数运算不精确？（阿里笔试）](https://juejin.im/post/6860445359936798734)
-
----
-## 4. Java 路线
-
-#### 4.1 Java 简介
-
-- [Java 基础面试题](https://www.jianshu.com/p/e29370668613)
-- [Java 虚拟机面试题](https://www.jianshu.com/p/846d05fc5e45)
-- [Java String 常见面试题](https://juejin.cn/post/6909066772721172488)
-- [为什么 Java 实现了平台无关性?](https://juejin.cn/post/6866716238207254536)
-- [拿放大镜看对象](https://juejin.cn/post/6918257137806376968)
-
-#### 4.2 虚拟机自动内存管理机制
-
-- [Java 内存分配模型](https://juejin.cn/post/6917796881196122120)
-- [垃圾回收机制](https://juejin.cn/post/6918740822163161095)
-- [Object obj = new Object()占用多少字节？](https://juejin.cn/post/6887594129405149197)
-- [引用类型 & Finalizer 机制](https://juejin.cn/post/6910893388879364110)
-
-#### 4.3 虚拟机执行系统
-
-- [Class 文件结构](https://www.jianshu.com/p/14c969b8add2)
-- [方法调用的本质（含重载与重写区别）](https://juejin.cn/post/6867481742723268615)
-- [编译过程（编译前端 & 编译后端）](https://juejin.cn/post/6867124787576373256)
-- [类加载机制](https://www.jianshu.com/p/f4318e626a22)
-
-#### 4.4 Java 基础特性
-
-- [反射机制（含 Kotlin）](https://juejin.cn/post/6889833658669072397)
-- [泛型（含Kotlin）](https://juejin.cn/post/6888345234653052941)
-- [注解（含 Kotlin）](https://www.jianshu.com/p/5871e1186840)
-
-#### 4.5 Java 高级特性
-
-- [System.getProperty(...) 获取系统属性](https://juejin.cn/post/6892294041632210957)
-- [服务发现框架 ServiceLoader](https://juejin.cn/post/6916161542492782605/)
-- [JDK 动态代理的原理](https://juejin.cn/post/6974018412158664734/)
-
----
-## 5. Koltin 路线
-
-- [扩展函数（终于知道为什么 with 用 this，let 用 it）](https://juejin.cn/post/6935027613542907941)
-- [委托机制 & 原理](https://juejin.cn/post/6958346113552220173/)
-
----
-## 6. Android 核心原理
-
-#### 6.1 Activity & Fragment
-
-- [你真的懂 Fragment 吗？—— AndroidX Fragment 核心原理分析](https://juejin.cn/post/6970998913754988552)
-
-#### 6.2 ContentProvider
-- [ContentProvider 筑基篇](https://juejin.cn/post/6929518871921557512)
-- [ContentProvider 精通篇](https://www.jianshu.com/p/e144079840b3)
-- [使用 ContentProvider 无侵入获取 Context](https://juejin.cn/post/6887980244389593096)
-
-#### 6.3 BroadcastReceiver
-
-#### 6.4 Service
-
-#### 6.5 布局解析
-
-- [带你探究 LayoutInflater 布局解析原理](https://juejin.cn/post/6886052422260228103)
-- [View & Fragment & Window 的 getContext() 一定返回 Activity 吗？](https://juejin.cn/post/6886857116787687438)
-- [说说从 android:text 到 TextView 的过程（主题&样式）](https://juejin.cn/post/6889029050753531917)
-
-#### 6.6 签名
-
-- [他山之石，可以攻玉！一篇文章看懂 v1/v2/v3 签名机制](https://juejin.cn/post/6906882748909092871)
-
-#### 6.7 其他
-- [Android 从类加载到程序执行](https://juejin.cn/post/6919121581180616718)
-- [老生常谈！屏幕适配原理 & 方案总结笔记](https://juejin.cn/post/6903344875136745479)
-
----
-## 7. Android 开源组件
-
-#### 7.1 基础架构
-
-- [这是一份详细的 EventBus 使用教程](https://juejin.cn/post/6930562700128813070)
-- [使用 AspectJ 限制按钮快速点击](https://juejin.cn/post/6889239355307753485)
-
-#### 7.2 图片
-
-- [适可而止！看 Glide 如何把生命周期安排得明明白白](https://juejin.cn/post/6900548494818279432)
-
-#### 7.3 网络
-
-- [OkHttp 拦截器](https://www.jianshu.com/p/3766d8b34745)
-- [OkHttp 分发器](https://www.jianshu.com/p/bf85b584490f)
-
----
-## 8. Jetpack 架构组件
-
-#### 8.1 基础架构
-
-- [从 Dagger2 到 Hilt 玩转依赖注入（一）](https://juejin.cn/post/6947655947875516424)
-- [食之无味！App Startup 可能比你想象中要简单](https://juejin.cn/post/6898738809895125006)
-- [ViewBinding 与 Kotlin 委托双剑合璧](https://juejin.cn/post/6960914424865488932)
-
-#### 8.2 AndroidX 新 API
-
-- [Android | Jetpack 处理回退事件的新姿势 —— OnBackPressedDispatcher](https://juejin.cn/post/6967039557220958244)
-
----
-## 9. 工程化路线
-- [代码混淆到底做了什么？](https://juejin.cn/post/6930648501311242248)
-- [Gradle 进阶篇（Project & Task & 构建生命周期）](https://juejin.cn/post/6917486983946338318)
-- [手把手自定义 Gradle 插件](https://juejin.cn/post/6916687373208125447)
-- [Android工程化实践：组件化发布](https://juejin.cn/post/6963633839860088846)
-- [用力过猛！为了组件化改造学习十几家大厂的技术博客](https://juejin.cn/post/6896099703474749453)
-- [落地西瓜视频埋点方案，埋点从未如此简单](https://juejin.cn/post/7010797094151651365/)
-- [手把手教你适配 Android 64 位架构](https://juejin.cn/post/7034201332500135966/)
-
----
-## 10. NDK 路线
-
-#### 10.1 语言
-
-- [C 语言复习笔记](https://juejin.cn/post/6939477843088769032)
-- [C++ 复习笔记](https://juejin.cn/post/6947657958419333151)
-
-#### 10.2 JNI
-
-- [带你梳理 JNI 函数注册的方式和时机](https://juejin.cn/post/6893157091633004558)
-- [带你点亮 JNI 开发基石符文 (一)](https://juejin.cn/post/6973486697245835294/)
-
-#### 10.3 NDK
-
-- [说说 so 库从加载到卸载的全过程](https://juejin.cn/post/6892793299427491854)
-- [带你理解 NativeAllocationRegistry 的原理与设计思想](https://juejin.cn/post/6887838742430613518)
-
----
-## 11. 服务端
-- [客户端同学应该理解的 ELK Stack 组件知识](https://juejin.cn/post/6947712552390361119)
-
----
-## 12. 逻辑题
-- [“我知道你不知道”！](https://juejin.cn/post/6902829580013436942)
-- [德·梅齐利亚克砝码！](https://juejin.cn/post/6903460612886495245)
-- [天黑请闭眼！](https://juejin.cn/post/6903524335193948167/)
-- [赛马！](https://juejin.cn/post/6903861591188783112/)
-
----
-## 13. 其他
 - [自媒体 | 使用Markdown高效率编写文档](https://juejin.cn/post/6844903901548789773)
 
----
-## 结语
-
-
----
-## Contact Me
-
-#### 微信
-欢迎添加我的微信：xurui0801，也可以联系我加入学习群~
-
-![](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
-
-#### 博客
-
-后续我会将每篇博客同步更新到各个主流博客平台，关注我的博客，可以更及时地获取最新更新文章哦⚡
-
-- 简书：https://www.jianshu.com/u/d9761b0d1618
-- 掘金：https://juejin.im/user/1063982987230392
-- 头条：https://www.toutiao.com/c/user/102880980905/
-- 知乎：https://www.zhihu.com/people/di-san-ci-ai-qing
 
 ## Donate
 
