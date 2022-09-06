@@ -1,4 +1,4 @@
-# AndroidFamily（即将大更新）
+# AndroidFamily
 
 ![](https://github.com/pengxurui/AndroidFamily/blob/master/images/Android_Banner.png)
 
@@ -35,6 +35,23 @@
   </a>
 </p>
 
+**这是一份帮助 Android 开发者知识积累与能力进阶的学习路线，主要集中在 Java、Android、计算机基础、Flutter、NDK、产品和软实力等话题。** 
+
+小彭的整个 Android 知识体系使用杜威十进制的知识分类思想进行分级整理，未来小彭也会按照这个体系去输出内容。有很多细节的地方，考虑到不是很完善的地方，大家可以提 Issue 给意见（别忘记 Star 哟）。
+
+## 使用方法
+
+**1、⭐ 先给一个 Star：** 你的支持对我非常重要，我的内容质量绝对对得起你的 Star，给我一点创作的动力，感谢。
+
+**2、进小彭的 Android [交流群](https://github.com/pengxurui/AndroidFamily/blob/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)：** 加我微信进群，我们对群质量有要求，你可以在这里找到志同道合的朋友。群里可以讨论技术、分享文章、聊天、吐槽，允许适当发招聘广告，不受欢迎的行为是严格禁止的：
+
+**3、关注我的 [公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png)：** 坚持高质量原创内容，不人云亦云，公众号后续是我主要的内容更新平台；
+
+**4、关注我的 [掘金](https://juejin.cn/user/1063982987230392)、[知乎](https://www.zhihu.com/people/pengxurui) 和 [《AndroidFamily》](https://github.com/pengxurui/AndroidFamily) 专栏：** 掘金上有我历史发布过的所有文章；
+
+**5、关注 [AndroidFamilyDemo](https://github.com/pengxurui/AndroidFamilyDemo) 项目：** 该项目作为 《AndroidFamily》 专栏 Android 系列文章配套 “示例程序” 而存在，旨在帮助读者更直观感性地理解纸面上的知识点，进一步提高学习效率；
+
+**6、催文：** 我会优先输出大多数读者朋友感兴趣的内容，你可以在 Issue 里提出你的需求，小彭会按照大家普遍的需求调整方向。当然同时能请小彭喝一杯速溶咖啡，就更 Nice 了！
 
 ## 如何成为有高度的移动开发工程师？
 
@@ -52,13 +69,10 @@
 
 有的人选择了转行，结果是站在风口上被吹到天上，还是在任何方向都没有深度积累，最终没有竞争力。我没有经历过，所以我也看不到最终的结果。我们唯一能看到的结果是：“风口是等来的，而不是追来的”，人家之所以能站在风口上，原因是有多年的积累，最终等来的风口。站在当前时代，我们首先要做的，就是抛弃焦虑，焦虑解决不了任何问题。唯有无所畏惧地往前冲，才能留有一席之地，那些落后于时代的移动开发者必将被淘汰。看过王争（前 Google 工程师）在文章里写过：“每一个优秀的人，都有一段沉默的时光，那段时光是付出了很多努力的，却得不到结果的日子，我们把它叫做扎根。” 你经历过这个阶段吗？
 
-## 前言
+# Android Family 知识体系
 
+提示：善用 Ctrl+F
 
-正在以杜威十进制模型重构，请期待...
-
-
----
 ## 000 Java 
 
 - 010 Java 编程
@@ -74,7 +88,6 @@
   - [020.3 · by 委托机制 & 原理 & 应用](https://juejin.cn/post/6958346113552220173)
 
 - 030 Java 虚拟机
-
 
   - 031 Java 虚拟机内存管理
   
