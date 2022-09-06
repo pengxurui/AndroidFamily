@@ -77,8 +77,6 @@
   </a>
 </p>
 
-## 思维导图
-
 ## 000 Java 
 
 - 010 Java 编程
@@ -794,6 +792,10 @@
 - [明天 520，说说两性之间的那些事](https://juejin.cn/post/7099395743210815502)
 
 - [自媒体 | 使用Markdown高效率编写文档](https://juejin.cn/post/6844903901548789773)
+
+## 思维导图
+
+![](https://github.com/pengxurui/AndroidFamily/blob/master/images/AndroidFamily_2022_09_06.png)
 
 ## 小彭的其它开源项目
 
