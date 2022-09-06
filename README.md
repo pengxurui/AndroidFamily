@@ -59,7 +59,343 @@
 
 
 ---
-## 0. 面试题系列
+## 000 Java 
+
+- 010 Java 编程
+
+  - [010.1 · 金九银十，收下这份 Java String 面试题](https://juejin.cn/post/6909066772721172488)
+
+- 020 Kotlin 编程
+
+  - [020.1 · 金三银四必备，全面总结 Kotlin 面试知识点](https://juejin.cn/post/7076744947440812062)
+  
+  - [020.2 · 扩展函数（终于知道为什么 with 用 this，let 用 it）](https://juejin.cn/post/6935027613542907941)
+  
+  - [020.3 · by 委托机制 & 原理 & 应用](https://juejin.cn/post/6958346113552220173)
+
+- 030 Java 虚拟机
+
+  - 031 Java 虚拟机内存管理
+  
+    - 031.1 内存分布模型
+    
+    - 031.2 垃圾回收机制
+    
+    - 031.3 对象创建过程
+    
+    - [031.4 吊打面试官：对象的内存分为哪几个部分？](https://juejin.cn/post/7130508389175853087)
+    
+    - [031.5 吊打面试官：说一下 Java 的四种引用类型](https://juejin.cn/post/7130652285817847844)
+    
+    - [031.6 吊打面试官：为什么 finalize() 方法只会执行一次？](https://juejin.cn/post/7131027741163388958)
+    
+  - 032 Java 编译过程
+  
+    - 032.1 Java 编译过程
+    
+    - 032.2 Class 文件结构
+    
+    - 032.3 APT 注解处理器
+    
+    - 032.4 注解
+    
+    - 032.5 类加载机制
+    
+    - 032.6 泛型机制
+
+  - 033 Java 虚拟机执行系统
+    
+    - 033.1 方法调用与方法返回
+    
+    - 033.2 重载与重写
+    
+    - 033.3 反射机制
+    
+    - 033.4 异常机制
+  
+  - 034 并发编程
+  
+---
+## 100 Android
+  
+- 110 Android 四大组件
+
+  - 111 Activity
+  
+  - 112 Service
+  
+  - 113 BroadcastReceiver
+  
+  - 114 ContentProvider
+  
+    - 114.1 ContentProvider 基础
+    
+    - 114.2 ContentProvider 原理
+    
+    - [114.3 ContentProvider 案例：无侵入获取 Context 进行初始化](https://juejin.cn/post/6887980244389593096)
+    - [114.4 ContentProvider 案例：Jetpack · App Startup](https://juejin.cn/post/6898738809895125006)
+
+  - 115 Intent
+    
+    - 115.1 Intent 基础
+    
+    - [115.2 Android 面试题：说一下 PendingIntent 和 Intent 的区别](https://juejin.cn/post/7122767360976486413)
+    
+  - 116 Context
+  
+    - [116.1 一个进程有多少个 Context 对象（答对的不多）](https://www.jianshu.com/p/51d63a1ffb95)
+    
+    - [116.2 View & Fragment & Window 的 getContext() 一定返回 Activity 吗？](https://juejin.cn/post/6886857116787687438)
+
+- 120 Android 核心原理
+
+  - 121 Android IPC 通信
+  
+  - 122 Android 虚拟机
+  
+  - 123 Android 系统层服务
+  
+    - 123.1 Android 系统架构
+    
+    - 123.2 Android 系统启动过程
+    
+    - 123.3 应用安装过程
+    
+    - 123.4 四大组件启动过程
+  
+  - 124 Android 应用层机制
+  
+    - 124.1 Handler 机制
+    
+    - 124.2 事件分发机制
+    
+    - 124.3 Window 机制
+    
+    - 124.4 视图框架
+    
+    - 124.5 布局解析
+    
+    - 124.6 绘制机制
+    
+    - 124.7 ANR 机制
+  
+  - 125 Android 编译过程
+  
+    - 125.1 APK 编译过程
+    
+    - 125.2 APK 文件格式
+    
+    - 125.3 DEX 文件格式
+    
+    - 125.4 so 文件格式
+  
+  - 126 Android 资源管理机制
+  
+    - 126.1 资源基础
+    
+    - 126.2 资源编译过程
+    
+    - 126.3 资源匹配过程
+    
+    - 126.4 资源案例：换肤
+    
+    - 126.5 资源案例：插件化
+    
+    - 126.6 资源案例：组件化资源冲突
+  
+- 130 Android 核心特性
+
+  - 131 Android 版本适配
+  
+    - [131.1 做了这么多年 Android，你对系统特性有多熟悉？](https://juejin.cn/post/7092381934810038279)
+    
+    - [131.2 Android 12 还没用上，Android 13 已经来了！](https://juejin.cn/post/7088731887945908260)
+    
+    - [131.3 还没适配 Android 12 的要抓紧了](https://juejin.cn/post/7088731887945908260)
+
+  - 132 权限机制
+  
+    - 132.1 权限基础
+    
+    - 132.2 动态权限
+    
+    - 132.3 特殊权限 - 设备管理器
+    
+    - 132.4 特殊权限 - 无障碍服务
+    
+    - 132.5 特殊权限 - 通知使用权限
+
+  - 133 系统通知
+  
+  - 134 持久化存储
+  
+    - 134.1 键值对存储 - SharedPreference
+  
+    - 134.2 键值对存储 - MMKV
+
+    - 134.3 键值对存储 - DataStore
+    
+  - 135 网络请求
+  
+    - [135.1 网络案例：飞书前端提到的竞态问题，在 Android 上怎么解决？](https://juejin.cn/post/7130144715063689253)
+
+  - 136 桌面微件 Widget
+  
+- 140 Android 组件原理
+
+  - 141 Jetpack 组件
+
+    - [141.01 Lifecycle：生命周期感知型组件的基础](https://juejin.cn/post/7120472134853328909/)
+
+    - [141.02 为什么 LiveData 会重放数据，怎么解决？](https://juejin.cn/post/7121621553670225957)
+
+    - [141.03 为什么 Activity 都重建了 ViewModel 还存在？](https://juejin.cn/post/7121998366103306254/)
+
+    - [141.04 有小伙伴说看不懂 LiveData、Flow、Channel，跟我走](https://juejin.cn/post/7077149853876224013)
+
+    - [141.05 Android UI 架构演进：从 MVC 到 MVP、MVVM、MVI](https://juejin.cn/post/7072020104212381732)
+
+    - [141.06 ViewBinding 与 Kotlin 委托双剑合璧](https://juejin.cn/post/6960914424865488932)
+
+    - [141.07 AndroidX Fragment 核心原理分析](https://juejin.cn/post/6970998913754988552)
+
+    - 141.08 RecyclerView：可复用型列表视图
+
+    - 141.09 Navigation：单 Activity 多 Fragment 的导航方案
+
+    - [141.10 从 Dagger2 到 Hilt 玩转依赖注入（一）](https://juejin.cn/post/6947655947875516424)
+
+    - 141.11 Hilt：从 Dagger2 到 Hilt 玩转依赖注入（二）
+
+    - [141.12 OnBackPressedDispatcher：Jetpack 处理回退事件的新姿势](https://juejin.cn/post/6967039557220958244)
+
+    - [141.13 食之无味！App Startup 可能比你想象中要简单](https://juejin.cn/post/6898738809895125006)
+
+    - 141.14 DataStore：新一代键值对存储方案
+
+    - 141.15 Room：ORM 数据库访问框架
+
+    - 141.16 WindowManager：加强对多窗口模式的支持
+
+    - 141.17 WorkManager：加强对后台任务的支持
+
+    - 141.18 Compose：新一代视图开发方案
+
+  - 142 网络组件
+
+    - 142.1 OkHttp
+
+    - 142.2 Retrofit
+
+    - 142.3 Glide
+
+  - 143 序列化组件
+
+    - 143.1 Gson
+
+    - 143.2 Protobuf
+
+  - 144 调优组件
+
+    - [144.1 为什么各大厂自研的内存泄漏检测框架都要参考 LeakCanary？因为它是真强啊！](https://juejin.cn/post/7134728428003000356)
+
+- 150 Android UI 开发
+
+  - 151 Android UI 基础
+
+    - 151.1 Material Design
+
+    - [151.2 老生常谈！屏幕适配原理 & 方案总结笔记](https://juejin.cn/post/6903344875136745479)
+
+  - 152 文本
+
+  - 153 图片
+
+  - 154 动画
+
+  - 155 交互
+
+- 160 Android 性能优化
+
+- 170 Android 工程化
+
+- 180 Compose
+
+
+
+  
+---
+## 200 计算机基础
+  
+- 210 计算机组成原理
+
+- 220 计算机网络
+
+- 230 操作系统
+
+- 240 数据结构与算法
+
+- 250 数据库
+
+- 260 设计模式
+
+---
+## 300 Flutter 开发
+
+
+
+---
+## 400 NDK 开发
+  
+- 410 C/C++ 基础
+
+- 420 JNI 基础
+
+- 430 NDK 基础
+
+- 440 音视频基础理论
+
+
+---
+## 500 DevOps
+
+- 510 Git 版本控制
+
+- 520 CI/CD 持续集成
+
+- 530 开源
+    
+    
+
+    
+    
+---
+## 600 后端
+
+
+
+
+
+---
+## 700 项目实践
+
+
+
+---
+## 800 产品 & 设计 & 市场 & 运营
+
+
+
+---
+## 900 软实力
+
+##
+
+
+
+
+
+
 
 - [Java 基础面试题](https://www.jianshu.com/p/e29370668613)
 - [Java String 常见面试题](https://juejin.cn/post/6909066772721172488)
