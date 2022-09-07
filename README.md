@@ -49,7 +49,7 @@
 
 **4、关注我的 [掘金](https://juejin.cn/user/1063982987230392)、[知乎](https://www.zhihu.com/people/pengxurui) 和 [《AndroidFamily》](https://github.com/pengxurui/AndroidFamily) 专栏：** 掘金上有我历史发布过的所有文章；
 
-**5、关注 [AndroidFamilyDemo](https://github.com/pengxurui/AndroidFamilyDemo) 项目：** 该项目作为 《AndroidFamily》 专栏 Android 系列文章配套 “示例程序” 而存在，旨在帮助读者更直观感性地理解纸面上的知识点，进一步提高学习效率；
+**5、关注 [AndroidFamilyDemo](https://github.com/pengxurui/AndroidFamilyDemo) 项目：** 该项目作为 《AndroidFamily》 专栏配套 “示例程序” 而存在，旨在帮助读者更直观感性地理解纸面上的知识点，进一步提高学习效率；
 
 **6、催文：** 我会优先输出大多数读者朋友感兴趣的内容，你可以在 Issue 里提出你的需求，小彭会按照大家普遍的需求调整方向。当然同时能请小彭喝一杯速溶咖啡的话，你就是很 Nice 的 boy！
 
