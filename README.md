@@ -69,13 +69,18 @@
 
 有的人选择了转行，结果是站在风口上被吹到天上，还是在任何方向都没有深度积累，最终没有竞争力。我没有经历过，所以我也看不到最终的结果。我们唯一能看到的结果是：“风口是等来的，而不是追来的”，人家之所以能站在风口上，原因是有多年的积累，最终等来的风口。站在当前时代，我们首先要做的，就是抛弃焦虑，焦虑解决不了任何问题。唯有无所畏惧地往前冲，才能留有一席之地，那些落后于时代的移动开发者必将被淘汰。看过王争（前 Google 工程师）在文章里写过：“每一个优秀的人，都有一段沉默的时光，那段时光是付出了很多努力的，却得不到结果的日子，我们把它叫做扎根。” 你经历过这个阶段吗？
 
-# Android Family 知识体系（善用 Ctrl+F）
-
 <p align='center'>
   <a href="https://www.github.com/pengxurui" target="_blank">
     <img src="https://github.com/pengxurui/AndroidFamily/blob/master/images/knowledge.png">
   </a>
 </p>
+
+# Android Family 知识体系（善用 Ctrl+F）
+
+## 最新文章
+
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/0?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/0)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/1?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/1)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/2?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/2) | [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/3?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/3)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/4?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/4)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/5?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/5)
+---|---
 
 ## 000 Java 
 
