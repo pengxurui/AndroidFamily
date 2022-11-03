@@ -162,6 +162,10 @@
   
   - 034 并发编程
   
+  - 035 Java 集合
+  
+    - [035.1 Java 面试题：ArrayList 可以完全替代数组吗？](https://juejin.cn/post/7161731329078329381)
+  
 ---
 ## 100 Android
   
