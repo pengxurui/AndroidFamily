@@ -164,7 +164,19 @@
   
   - 035 Java 集合
   
-    - [035.1 Java 面试题：ArrayList 可以完全替代数组吗？](https://juejin.cn/post/7161731329078329381)
+    - [035.1 Java 数据结构：ArrayList 可以完全替代数组吗？](https://juejin.cn/post/7161731329078329381)
+    
+    - [035.2 Java 数据结构：CopyOnWriteArrayList 是如何保证线程安全的？](https://juejin.cn/post/7162035643785150472)
+    
+    - [035.3 Java 数据结构：说一下 ArrayList 和 LinkedList 的区别？](https://juejin.cn/post/7162203434014212109)
+    
+    - [035.4 Java 数据结构：说一下 ArrayDeque 和 LinkedList 的区别?](https://juejin.cn/post/7162819765361672199)
+    
+    - [035.5 万字 HashMap 详解，基础（优雅）永不过时 —— 原理篇](https://juejin.cn/post/7163985718417555487)
+    
+    - [035.6 万字 HashMap 详解，基础（优雅）永不过时 —— 源码篇](https://juejin.cn/post/7164024676618862622)
+    
+    - [035.7 Java 数据结构：说一下 LinkedHashMap 是如何实现有序的？](https://juejin.cn/post/7164348785512939551)
   
 ---
 ## 100 Android
@@ -628,9 +640,9 @@
 
   - 241 基础数据结构
 
-    - 241.1 线性表（ArrayList & LinkedList 实现）
+    - 241.1 线性表
 
-    - [241.2 散列表：简答一波 HashMap 常见八股面试题](https://juejin.cn/post/7122091070862655501)
+    - [241.2 散列表：如何实现一个优秀的 HashTable 散列表？](https://juejin.cn/post/7163301919316934693)
 
     - 241.3 队列
 
