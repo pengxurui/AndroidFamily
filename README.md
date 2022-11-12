@@ -164,7 +164,7 @@
   
   - 035 Java 集合
   
-    - [035.1 Java 数据结构：ArrayList 可以完全替代数组吗？](https://juejin.cn/post/7161731329078329381)
+    - [035.1 Java 数据结构：ArrayList：ArrayList 可以完全替代数组吗？](https://juejin.cn/post/7161731329078329381)
     
     - [035.2 Java 数据结构：CopyOnWriteArrayList 是如何保证线程安全的？](https://juejin.cn/post/7162035643785150472)
     
@@ -172,11 +172,13 @@
     
     - [035.4 Java 数据结构：说一下 ArrayDeque 和 LinkedList 的区别?](https://juejin.cn/post/7162819765361672199)
     
-    - [035.5 万字 HashMap 详解，基础（优雅）永不过时 —— 原理篇](https://juejin.cn/post/7163985718417555487)
+    - [035.5 Java 数据结构：万字 HashMap 详解，基础（优雅）永不过时 —— 原理篇](https://juejin.cn/post/7163985718417555487)
     
-    - [035.6 万字 HashMap 详解，基础（优雅）永不过时 —— 源码篇](https://juejin.cn/post/7164024676618862622)
+    - [035.6 Java 数据结构：万字 HashMap 详解，基础（优雅）永不过时 —— 源码篇](https://juejin.cn/post/7164024676618862622)
     
-    - [035.7 Java 数据结构：说一下 LinkedHashMap 是如何实现有序的？](https://juejin.cn/post/7164348785512939551)
+    - [035.7 Java 数据结构：如何使用 LinkedHashMap 实现 LRU 缓存？](https://juejin.cn/post/7164348785512939551)
+    
+    - [035.8 Java 数据结构：WeakHashMap 和 HashMap 的区别是什么，何时使用？](https://juejin.cn/post/7165044834590261256)
   
 ---
 ## 100 Android
