@@ -371,13 +371,17 @@
 
   - 143 序列化组件
 
-    - [143.1 Gson 源码分析指南](https://juejin.cn/post/7160359176282538015)
+    - [143.1 Android 序列化框架 Gson 的实现原理](https://juejin.cn/post/7160359176282538015)
 
     - 143.2 Protobuf
 
   - 144 调优组件
 
     - [144.1 为什么各大厂自研的内存泄漏检测框架都要参考 LeakCanary？因为它是真强啊！](https://juejin.cn/post/7134728428003000356)
+    
+  - 145 其他
+  
+    - [145.1 Android 内存缓存框架 LruCache 的实现原理](https://juejin.cn/post/7166476725981806628)
 
 - 150 Android UI 开发
 
