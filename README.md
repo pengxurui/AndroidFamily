@@ -368,6 +368,8 @@
     - [142.4 EventBus 这是一份详细的 EventBus 使用教程](https://juejin.cn/post/6930562700128813070)
 
     - [142.5 适可而止！看 Glide 如何把生命周期安排得明明白白](https://juejin.cn/post/6900548494818279432)
+    
+    - [142.6 Android IO 框架 Okio 的实现原理，到底哪里 OK？](https://juejin.cn/post/7167757174502850597/)
 
   - 143 序列化组件
 
