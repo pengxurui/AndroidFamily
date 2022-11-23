@@ -162,9 +162,9 @@
   
   - 034 并发编程
   
-    - [034.01 全网比较全的 ThreadLocal 原理详细解析 —— 原理篇](https://juejin.cn/post/7166202551782604837)
+    - [034.01 全网最全的 ThreadLocal 原理详细解析 —— 原理篇](https://juejin.cn/post/7166202551782604837)
     
-    - [034.02 全网比较全的 ThreadLocal 原理详细解析 —— 源码篇](https://juejin.cn/post/7166202801470013476)
+    - [034.02 全网最全的 ThreadLocal 原理详细解析 —— 源码篇](https://juejin.cn/post/7166202801470013476)
   
   - 035 Java 集合
   
@@ -378,12 +378,18 @@
     - [143.1 Android 序列化框架 Gson 的实现原理](https://juejin.cn/post/7160359176282538015)
 
     - 143.2 Protobuf
+    
+  - 144 持久化组件
+  
+    - [144.1 Android 初代 K-V 存储框架 SharedPreferences，旧时代的余晖？（上）](https://juejin.cn/post/7169263929510592519)
+    
+    - [144.2 Android 初代 K-V 存储框架 SharedPreferences，旧时代的余晖？（下）](https://juejin.cn/post/7169265620306165790/)
 
-  - 144 调优组件
+  - 145 调优组件
 
     - [144.1 为什么各大厂自研的内存泄漏检测框架都要参考 LeakCanary？因为它是真强啊！](https://juejin.cn/post/7134728428003000356)
     
-  - 145 其他
+  - 146 其他
   
     - [145.1 Android 内存缓存框架 LruCache 的实现原理](https://juejin.cn/post/7166476725981806628)
 
